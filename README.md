@@ -9,15 +9,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swarnimsrijan" alt="swarnimsrijan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-- 💬 Ask me about **Java, Spring Frramework**
-
+- 💬 Ask me about **Java, Spring Framework**
 - 📫 How to reach me **1142srijan2002@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
-</p>
+  - Email: 1142srijan2002@gmail.com
+  - Linkedin: https://www.linkedin.com/in/swarnim-srijan-220562214/
+</p> -->
 
 <!-- <h3 align="left">Languages: </h3>
 <p align="left"> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
